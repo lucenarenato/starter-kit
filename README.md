@@ -16,3 +16,11 @@ This is the repository for the official TallStackUI starter kit for Laravel 12.
 ## Documentation
 
 [Discover the starter kit by visiting the official documentation on the TallStackUI website.](https://tallstackui.com/docs/v2/starter-kit)
+
+## Fonte: https://tallstackui.com/docs/v2/starter-kit
+![image](https://github.com/user-attachments/assets/36f23e63-78f4-4b03-939e-53b194dd7607)
+
+- Laravel 12
+- Livewire 3
+- TallStackUI 2
+- TailwindCSS v4
